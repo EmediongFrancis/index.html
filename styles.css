@@ -1,7 +1,10 @@
+html {
+  background-color: green;
+}
 body {
-  background-color: pink;
+  background-color: aquamarine;
 }
 .round {
   border-radius: 50%;
-  border: 3px solid white; 
+  border: 3px solid black;
 }
