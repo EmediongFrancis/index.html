@@ -1,9 +1,9 @@
 html {
   background-color: #99ff33;
+  padding: 30px;
 }
 body {
   background-color: #ccffff;
-  padding: 50px;
 }
 .round {
   border-radius: 50%;
