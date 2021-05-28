@@ -1,12 +1,5 @@
-html {
-  background-color: #99ff33;
-}
 .body {
-  width: 940px;
-  padding-left: 20;
-  padding-right: 20px;
   background-color: #ccffff;
-  box-sizing: border-box;
 }
 .round {
   border-radius: 50%;
