@@ -1,9 +1,12 @@
 html {
   background-color: #99ff33;
-  padding: 30px;
 }
 body {
   width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 40px;
+  padding-right: 40px;
   background-color: #ccffff;
 }
 .round {
