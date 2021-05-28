@@ -3,6 +3,7 @@ html {
   padding: 30px;
 }
 body {
+  width: 940px;
   background-color: #ccffff;
 }
 .round {
