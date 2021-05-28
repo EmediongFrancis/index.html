@@ -3,9 +3,8 @@ html {
 }
 .body {
   width: 940px;
-  margin: 10;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
   background-color: #ccffff;
   box-sizing: border-box;
 }
