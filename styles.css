@@ -8,6 +8,7 @@ html {
   padding-left: 40px;
   padding-right: 40px;
   background-color: #ccffff;
+  box-sizing: border-box;
 }
 .round {
   border-radius: 50%;
