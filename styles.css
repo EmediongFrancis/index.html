@@ -3,6 +3,7 @@ html {
 }
 .body {
   width: 940px;
+  margin: 10;
   padding-left: 40px;
   padding-right: 40px;
   background-color: #ccffff;
